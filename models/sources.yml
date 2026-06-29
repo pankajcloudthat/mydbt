@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: eth
+    database: eth
+    schema: eth_schema
+    tables:
+      - name: contracts
+        identifier: cnt
+      - name: token_transfers
+      - name: transactions
+      - name: contracts_clone
