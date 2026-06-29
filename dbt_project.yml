@@ -45,9 +45,6 @@ models:
       +schema: marts
 
 vars:
-#  token_name_var: 'tron'
-#  token_address_var: '0x50327c6c5a14dcade707abad2e27eb517df87ab5'
-#  token_decimals_var: '6'
   token_name_var: 'link'
   token_address_var: '0x514910771af9ca656af840dff83e8264ecf986ca'
   token_decimals_var: '18'
